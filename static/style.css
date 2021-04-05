@@ -1,0 +1,16 @@
+body {
+   background: blue;
+   color: white;
+}
+
+textarea {
+   width: 500px;
+   padding: 0;
+   margin: 500;
+   box-sizing: border-box;
+}
+
+button {
+   width: 150px;
+   background: blue;
+}
